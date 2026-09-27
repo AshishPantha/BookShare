@@ -1,0 +1,11 @@
+# Python / Django
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/media/
+backend/db.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
